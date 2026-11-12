@@ -6,7 +6,7 @@
 
 | Cosa | Estado |
 |---|---|
-| Proyecto Unity 6000.6.2f1 | Vacío (plantilla por defecto, Built-in) |
+| Proyecto Unity 6000.6.9f1 | Vacío (plantilla por defecto, Built-in) |
 | MCP for Unity | Paquete agregado al manifest y `.mcp.json` listo. Falta abrir Unity para que se instale y conecte |
 | Repo git | Local, rama `main`. Falta publicarlo en GitHub (GitKraken) |
 | Documentación | Estructura base: [README.md](README.md) (padre), [HANDOFF.md](HANDOFF.md), este archivo, [Mecanicas/](Mecanicas/README.md), [Contexto/](Contexto/README.md) |

@@ -5,4 +5,4 @@
 
 | # | Archivo | Qué es | Para qué sirvió | Dónde terminó |
 |---|---|---|---|---|
-| | *(nada todavía)* | | | |
+| 01 | [imagenes/01_2026-11-12_version-unity-6000.6.9f1.png](imagenes/01_2026-11-12_version-unity-6000.6.9f1.png) | Captura de Unity Hub: Unity 6.6 (6000.6.9f1), la versión que el usuario instaló para el proyecto | Fijar la versión del motor | `CLAUDE.md`, [README.md](../README.md), [ESTADO.md](../ESTADO.md), [HANDOFF.md](../HANDOFF.md) |

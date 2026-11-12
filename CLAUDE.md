@@ -1,7 +1,7 @@
 # CLAUDE.md - Woodsbrow (working title)
 
 ## Project Overview
-- **Engine:** Unity 6000.6.2f1 (Built-in render pipeline for now; nothing decided yet)
+- **Engine:** Unity 6000.6.9f1 (Built-in render pipeline for now; nothing decided yet)
 - **Game:** new project, design not defined yet. Everything we know lives in `Docs/README.md` and the docs it links.
 - **Editor automation:** MCP for Unity (`com.coplaydev.unity-mcp` in `Packages/manifest.json`; server in `.mcp.json` → `uvx mcpforunityserver==10.1.2`)
 

@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| Motor | Unity 6000.6.2f1 |
-| Repositorio | `C:\Users\nmore\Woodsbrow` (rama `main`) |
+| Motor | Unity 6000.6.9f1 |
+| Repositorio | `C:\Users\nmore\Documents\Woodsbrow` (rama `main`) |
 | Estado | Proyecto vacío, recién creado (2026-11-12) |
 
 ## Mapa de documentación
